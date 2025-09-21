@@ -23,8 +23,7 @@ The dashboard is built using **Power BI**, with data provided in a CSV file.
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](Screenshot.png)
-
+https://github.com/Negarkohan/BI-Dashboards/blob/main/01-SuperStore/screenshot.png
 ---
 
 ## 🚀 How to Use
