@@ -41,7 +41,7 @@ Iranian Bank Analysis/
 
 ## 📷 اسکرین‌شات
 
-![Dashboard Screenshot](assets/dashboard1.png)
+![Dashboard Screenshot](04- Iranian Bank Analysis/Assets/Dashboard1.png)
 ![Dashboard Screenshot](assets/dashboard2.png)
 ![Dashboard Screenshot](assets/dashboard3.png)
 ![Dashboard Screenshot](assets/dashboard4.png)
