@@ -13,8 +13,8 @@ The analysis focuses on customer behavior, campaign performance, and profitabili
 ## 📊 Dashboard Preview
 Here are two sample screenshots from the dashboard:
 
-![Dashboard Screenshot 1](docs/Screenshot1.png)
-![Dashboard Screenshot 2](docs/Screenshot2.png)
+![Dashboard Screenshot 1](Docs/Screenshot1.png)
+![Dashboard Screenshot 2](Docs/Screenshot2.png)
 
 ## 📂 Repository Structure
 - `dashboard.pbix` → Power BI file  
@@ -28,4 +28,4 @@ Here are two sample screenshots from the dashboard:
 
 ---
 
-✍️ Created by: Negar Kohnesal
+✍️ Created by: Negar Kohansal
