@@ -42,11 +42,11 @@ Iranian Bank Analysis/
 ## 📷 اسکرین‌شات
 
 ![Dashboard Screenshot](Assets/Dashboard1.png)
-![Dashboard Screenshot](assets/dashboard2.png)
-![Dashboard Screenshot](assets/dashboard3.png)
-![Dashboard Screenshot](assets/dashboard4.png)
-![Dashboard Screenshot](assets/dashboard5.png)
-![Dashboard Screenshot](assets/dashboard6.png)
+![Dashboard Screenshot](Assets/Dashboard2.png)
+![Dashboard Screenshot](Assets/Dashboard3.png)
+![Dashboard Screenshot](Assets/Dashboard4.png)
+![Dashboard Screenshot](Assets/Dashboard5.png)
+![Dashboard Screenshot](Assets/Dashboard6.png)
 
 ---
 
