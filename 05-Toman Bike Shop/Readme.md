@@ -26,5 +26,5 @@ This dashboard provides insights into revenue, profit trends, rider demographics
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./Dashboard.png)
+![Dashboard Screenshot](./Assets/Dashboard.png)
 
